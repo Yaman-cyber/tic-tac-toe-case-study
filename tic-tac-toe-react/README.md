@@ -27,6 +27,6 @@ npm run dev
 
 The server will start on `http://localhost:5173`
 
-## otp
+## otp info
 
-otp is always 12345
+otp is always `12345`

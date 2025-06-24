@@ -49,6 +49,6 @@ after metro starts run:
 yarn android
 ```
 
-## otp
+## otp info
 
 otp is always `12345`
