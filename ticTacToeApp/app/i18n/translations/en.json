@@ -1,0 +1,7 @@
+{
+  "hi": "Hiiii",
+  "loading": "Loading...",
+  "login": { "title": "Sign in to your account", "email": "Email address", "password": "Password", "button": "Sign in", "signup": "Don't have account? Sign up" },
+  "signin": { "title": "Create an account", "email": "Email address", "password": "Password", "button": "Sign up", "login": "have account? Login" },
+  "verify": { "title": "Verify your email" }
+}

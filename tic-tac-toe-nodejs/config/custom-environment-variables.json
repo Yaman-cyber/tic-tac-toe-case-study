@@ -1,0 +1,9 @@
+{
+  "port": "PORT",
+  "environment": "ENVIRONMENT",
+  "jwtPrivatekey": "TIC_TAC_TOE_JWTPRIVATEKEY",
+  "db": "DB",
+  "pythonAPI": {
+    "url": "PYTHON_API_URL"
+  }
+}

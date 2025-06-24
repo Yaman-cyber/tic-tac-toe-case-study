@@ -1,0 +1,6 @@
+{
+  "email": {
+    "verifyOTP": "send-verify-otp"
+  },
+  "statistic": { "incUsers": "inc-users" }
+}
