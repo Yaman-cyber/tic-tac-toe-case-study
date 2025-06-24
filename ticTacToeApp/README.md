@@ -20,6 +20,7 @@ Open Command Prompt and run:
 ```bash
 ipconfig
 ```
+
 Look for the IPv4 Address under your active network adapter.
 
 On macOS
@@ -30,6 +31,7 @@ ipconfig getifaddr en0
 ```
 
 fill the .env file like this
+
 ```
 API_URL=http://<your-device-ip>:3000/api
 ```
@@ -46,3 +48,7 @@ after metro starts run:
 ```bash
 yarn android
 ```
+
+## otp
+
+otp is always `12345`
